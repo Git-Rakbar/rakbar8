@@ -1,2 +1,3 @@
 # rakbar8
-git intro for course
+Rayhan Akbar
+OPS445NBB
